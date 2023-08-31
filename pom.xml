@@ -1,0 +1,7 @@
+<dependencies>
+        <dependency>
+            <groupId>net.thauvin.erik</groupId>
+            <artifactId>cryptoprice</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
